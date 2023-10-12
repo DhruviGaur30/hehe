@@ -176,7 +176,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 ---
 
 ## `Hacktoberfest Community`
-
 ### **Contents**
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
@@ -206,7 +205,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   
   - [Dywa VaraPrasad](https://github.com/dywa-varaprasad)
-
+  - [Dhruvi Gaur](https://github.com/DhruviGaur30)
 | [`Back To Top`](#contents) |
 
 - ### **E**
